@@ -206,10 +206,10 @@ Instead of the Web Panel, you can configure the bot using HuggingFace Space Secr
 
 | Secret Name | Example | Description |
 |-------------|---------|-------------|
-| `MC_HOST` | `myserver.aternos.me` | Server Host |
-| `MC_PORT` | `44076` | Server Port |
+| `MC_HOST` | `MULTIYT.aternos.me` | Server Host |
+| `MC_PORT` | `14253` | Server Port |
 | `MC_USERNAME` | `MyBot` | Bot username |
-| `MC_VERSION` | `1.21.1` | MC version |
+| `MC_VERSION` | `1.26.2` | MC version |
 | `DISCORD_WEBHOOK_URL` | `https://discord.com/api/webhooks/...` | Discord webhook URL |
 | `WEBHOOK_PROXY` | `https://script.google.com/...` | Proxy URL |
 | `BOT_PASSWORD` | `mypassword` | LoginSecurity password |
