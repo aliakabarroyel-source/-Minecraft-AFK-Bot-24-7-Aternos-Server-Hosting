@@ -125,9 +125,9 @@ There are **two ways** to upload files:
 
    | Detail | Example | Location |
    |--------|---------|----------|
-   | **Server Address** | `myserver.aternos.me` | "Address" field on the main page |
-   | **Port** | `44076` | The number after `:` in the address (e.g. `myserver.aternos.me:44076`) |
-   | **MC Version** | `1.21.1` | The "Software" version of your server |
+   | **Server Address** | `MULTIYT.aternos.me` | "Address" field on the main page |
+   | **Port** | `14253` | The number after `:` in the address (e.g. `myserver.aternos.me:44076`) |
+   | **MC Version** | `1.26.2` | The "Software" version of your server |
 
    > ⚠️ **Aternos ports change every time the server restarts!** You will need to update the port in your Web Panel whenever your server is restarted.
 
